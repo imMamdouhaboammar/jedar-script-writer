@@ -12,11 +12,11 @@ description: >
   guardrails specific to marketing a crisis-management company. Even for a simple
   request like "اكتبلي سكريبت لجدار" or "hook جديد لجدار", use this skill.
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   author: Mamdouh Aboammar (@imMamdouhaboammar)
   brand: JEDAR Agency (jedar-agency.com)
   markets: Saudi Arabia, UAE, GCC, Egypt (dialect)
-  updated: 2026-07
+  updated: 2026-09
 ---
 
 # Jedar Script Writer
@@ -68,6 +68,8 @@ No denial-then-reveal contrast formulas, in any dialect:
 - No mirrored negation-affirmation pairs ("ما يرتجل. ينفّذ")
 State the point positively and directly. If contrast is needed, express it through
 scenario flipping (see ping-pong-craft.md) not through denial rhetoric.
+The author's archived scripts contain a few lines in this pattern. They are flagged
+with ready rewrites in author-approved-scripts.md: imitate the rewrite, never the original.
 
 ### 5. The em dash character is banned everywhere. No buzzwords
 (unleash, unlock, leverage, seamless, cutting-edge, revolutionize, elevate, etc.)
@@ -103,6 +105,32 @@ Per script:
 
 Full worked examples of the exact expected quality:
 [resources/script-exemplars.md](resources/script-exemplars.md)
+
+---
+
+## Author Voice (the taste reference)
+
+The house style comes from Mamdouh Aboammar's approved and award-winning scripts
+(Tecoma, Rawar, performance case studies). Read both files before writing:
+
+- Verbatim scripts, annotated beat by beat, with flagged lines and rewrites:
+  [resources/author-approved-scripts.md](resources/author-approved-scripts.md)
+- The extracted pattern (10 hook families, persuasion spine, rhetorical devices,
+  lexicon, conditional CTA, transfer map to JEDAR with a full worked script):
+  [resources/author-voice-dna.md](resources/author-voice-dna.md)
+
+Core traits to carry into every JEDAR script:
+- Open with something the viewer already knows: a number, a cliché, a question, a market objection
+- Proof through concrete operational steps in "we" past-tense verbs, with one maturity detail
+- Round number in the hook, precise number at the close (approved claims only)
+- Triplets and three diagnostic questions, ordered from obvious to sharp
+- Close by returning to the opening (callback, number, or condition)
+- Conditional CTA: "إذا + a situation the viewer recognizes + one action", wrapping the soft trigger
+- Practitioner words kept as spoken in Arabic letters (ترند، هاشتاق، NDA)
+- Calm confidence, zero hype adjectives, humor in small doses only
+
+These scripts belong to other brands. Transfer the style only: never their numbers,
+names, or claims.
 
 ---
 
@@ -178,6 +206,7 @@ Full conversion table, register guidance, and paired line examples:
 
 1. Read the brief. Which angle? Which proof is the hero? Which trigger fits?
    If unclear, propose based on the angle map rather than blocking.
+   Pick a hook family from author-voice-dna.md that fits the angle.
 2. Check proof-point collisions with other scripts in the same campaign.
 3. Draft Gulf version first (primary market), beat by beat.
 4. Run the quality gates below.
@@ -197,5 +226,6 @@ Full conversion table, register guidance, and paired line examples:
 8. CTA is a soft trigger, and matches the angle's logic?
 9. Dialects fully separated?
 10. All claims present on the approved list?
+11. Does it pass the taste checklist in author-voice-dna.md (section 10)?
 
 If any gate fails, rewrite that section before delivering.
