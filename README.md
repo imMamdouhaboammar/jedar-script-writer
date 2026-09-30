@@ -31,6 +31,8 @@ jedar-script-writer/
 ├── README.md                         # Documentation & usage guide
 └── resources/
     ├── angles-bank.md                # 5 tested campaign angles for reputation management
+    ├── author-approved-scripts.md    # Author's approved & award-winning scripts, verbatim + annotated
+    ├── author-voice-dna.md           # Extracted voice pattern, hook families, transfer map to JEDAR
     ├── brand-context.md              # Jedar brand identity, positioning, & tone of voice
     ├── cta-triggers.md               # CRO-driven soft CTA triggers & comment keywords
     ├── dialect-rules.md              # Gulf & Egyptian dialect conversion rules
